@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1024"
+   zoomAndPan="magnify"
+   viewBox="0 0 768 767.999994"
+   height="1024"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.0"
+   id="svg4"
+   sodipodi:docname="logo_pin.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.3105469"
+     inkscape:cx="529.09552"
+     inkscape:cy="504.85883"
+     inkscape:window-width="2560"
+     inkscape:window-height="1385"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="8d12d58998">
+      <path
+         d="M 232 208 L 537.898438 208 L 537.898438 501 L 232 501 Z M 232 208 "
+         clip-rule="nonzero"
+         id="path1" />
+    </clipPath>
+    <clipPath
+       id="fe885c8ae9">
+      <path
+         d="M 343.5625 313.40625 L 424.5625 313.40625 L 424.5625 428.90625 L 343.5625 428.90625 Z M 343.5625 313.40625 "
+         clip-rule="nonzero"
+         id="path2" />
+    </clipPath>
+  </defs>
+  <ellipse
+     style="fill:#ffffff;stroke-width:0.75"
+     id="path5"
+     cx="384"
+     cy="353.97467"
+     rx="18.502113"
+     ry="18.989012" />
+  <g
+     clip-path="url(#fe885c8ae9)"
+     id="g4">
+    <path
+       fill="#000000"
+       d="M 384.0625 313.410156 C 361.699219 313.410156 343.5625 331.511719 343.5625 353.832031 C 343.5625 384.148438 384.0625 428.902344 384.0625 428.902344 C 384.0625 428.902344 424.5625 384.148438 424.5625 353.832031 C 424.5625 331.511719 406.425781 313.410156 384.0625 313.410156 Z M 384.0625 368.269531 C 376.078125 368.269531 369.597656 361.800781 369.597656 353.832031 C 369.597656 345.863281 376.078125 339.394531 384.0625 339.394531 C 392.046875 339.394531 398.527344 345.863281 398.527344 353.832031 C 398.527344 361.800781 392.046875 368.269531 384.0625 368.269531 Z M 384.0625 368.269531 "
+       fill-opacity="1"
+       fill-rule="nonzero"
+       id="path4" />
+  </g>
+</svg>
